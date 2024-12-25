@@ -19,3 +19,7 @@ data/
 
 # Ignore environment configuration files (optional)
 .env
+
+# Ignore environment configuration files (optional)
+src/data_acquisition/.scrapy/
+
