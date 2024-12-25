@@ -1,0 +1,21 @@
+# Ignore Python virtual environments
+agent-venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore data files (optional, if you don't want to track raw data)
+data/
+
+# Ignore environment configuration files (optional)
+.env

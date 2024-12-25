@@ -1,0 +1,21 @@
+Server: Bhoot
+Content-Type: text/html;charset=UTF-8
+Last-Modified: Tue, 24 Dec 2024 12:25:14 GMT
+Content-Msg: DATA_SERVED_FROM_CACHE
+Etag: "06c7bf9ccb71d8bd4a3ea0885bd4c494d"
+Content-Language: en
+X-Cool: 62.88
+Strict-Transport-Security: max-age=25920000; includeSubdomains
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: public, must-revalidate, max-age=271
+Expires: Tue, 24 Dec 2024 12:35:14 GMT
+Date: Tue, 24 Dec 2024 12:30:43 GMT
+Set-Cookie: geoinfo=CC:IN, RC:KA, CT:BANGALORE, CO:AS, GL:1; path=/
+Alt-Svc: h3=":443"; ma=259200
+Akamai-Grn: 0.6c882c31.1735043443.14e7dcac
+Content-Security-Policy: frame-ancestors 'self' https://m.economictimes.com/ https://m.timesofiindia.com/ https://timesofindia.indiatimes.com/ https://navbharattimes.indiatimes.com/ http://www.google.com/ https://www.google.com/ https://m-economictimes-com.cdn.ampproject.org/ https://etmarketswebpre.indiatimes.com/ https://etmarketswappre.economictimes.com/
+X-Content-Header: gzip
+X-Content-Header: gzip
+Permissions-Policy: ch-ua=(self "https://ase.clmbtech.com" "https://ade.clmbtech.com"), ch-ua-model=(self "https://ase.clmbtech.com" "https://ade.clmbtech.com"), ch-ua-mobile=(self "https://ase.clmbtech.com" "https://ade.clmbtech.com"), ch-ua-platform=(self "https://ase.clmbtech.com" "https://ade.clmbtech.com"), ch-ua-platform-version=(self "https://ase.clmbtech.com" "https://ade.clmbtech.com")
+Accept-Ch: Sec-CH-UA, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version

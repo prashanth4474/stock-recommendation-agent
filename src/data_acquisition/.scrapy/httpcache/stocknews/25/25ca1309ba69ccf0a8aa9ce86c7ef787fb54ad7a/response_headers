@@ -1,0 +1,18 @@
+Content-Length: 135364
+Server: istio-envoy
+X-Powered-By: PHP/5.6.40-66+ubuntu22.04.1+deb.sury.org+1
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+X-Envoy-Upstream-Service-Time: 634
+Accept-Encoding: gzip
+Expires: Tue, 24 Dec 2024 12:30:43 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 24 Dec 2024 12:30:43 GMT
+Vary: Accept-Encoding
+Access-Control-Max-Age: 86400
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=86400 ; preload
