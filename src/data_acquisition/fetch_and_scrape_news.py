@@ -68,12 +68,12 @@ class StockNewsSpider(scrapy.Spider):
             articles = response.xpath('//li[contains(@class, "clearfix")]')
         elif "economictimes" in response.url:
             articles = response.xpath('//div[contains(@class, "eachStory")]')
-        elif "livemint" in response.url:
-            articles = response.xpath('//div[contains(@class, "listing-txt")]')
-        elif "business-standard" in response.url:
-            articles = response.xpath('//div[contains(@class, "news-item")]')
-        elif "nseindia" in response.url:
-            articles = response.xpath('//a[contains(@class, "news-link")]')
+        # elif "livemint" in response.url:
+        #     articles = response.xpath('//div[contains(@class, "listing-txt")]')
+        # elif "business-standard" in response.url:
+        #     articles = response.xpath('//div[contains(@class, "news-item")]')
+        # elif "nseindia" in response.url:
+        #     articles = response.xpath('//a[contains(@class, "news-link")]')
 
         for article in articles[:10]:  # Limit to top 10 articles per website
             title = article.xpath('.//a/text()').get()
